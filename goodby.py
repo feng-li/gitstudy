@@ -1,1 +1,1 @@
-print("Goodbye students!")
+print("Goodbye students, goodbye git")
